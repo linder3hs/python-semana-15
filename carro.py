@@ -17,6 +17,9 @@ class Carro:
     def girar(self):
         pass
 
+    def pagar_carro(self):
+        pass
+    
 
 class Motor:
 
