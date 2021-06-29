@@ -19,7 +19,13 @@ class Carro:
 
     def pagar_carro(self):
         pass
-    
+
+    def compar_partes_carro(self):
+        pass
+
+    def mantenimiento_carro(self):
+        pass
+
 
 class Motor:
 
